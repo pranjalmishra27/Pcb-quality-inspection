@@ -1,4 +1,4 @@
-%%writefile README.md
+
 ## Automated PCB Quality Inspection System
 
 This project implements an automated visual inspection system
